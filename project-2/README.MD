@@ -17,8 +17,11 @@ Link: https://www.kaggle.com/datasets/yasserh/titanic-dataset
 Tools & Libraries:
 
 Python
-Pandas
+
+pandas
+
 NumPy
+
 Matplotlib
 
 Tasks Performed
@@ -38,6 +41,7 @@ Performed filtering and sorting
 Used groupby() for analysis
 Calculated survival statistics
 Created bar chart, line chart, histogram, and scatter plot
+
 Project Outcome
 
 The dataset was successfully cleaned and analyzed. Different visualizations and statistical techniques were used to understand passenger survival trends.
