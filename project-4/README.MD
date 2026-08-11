@@ -38,8 +38,11 @@ Detected and treated outliers
 
 Performed filtering and sorting
 Created data visualizations
+
 Key Findings
+
 Carat has the strongest positive correlation with price.
+
 Diamond dimensions (x, y, z) are also highly correlated with price.
 Depth has very little relationship with price
 
